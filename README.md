@@ -34,5 +34,3 @@ This project shows that you don’t always need full-text reviews to make smart 
 	•	Studios and distributors can use models like this for early prediction, before review embargoes lift.
 	•	Streaming platforms can use it to optimize recommendation algorithms based on projected reception.
 	•	Marketing teams can prioritize campaigns for movies predicted to go Rotten, or double down on Fresh ones.
-
-When early data is all you have, this kind of model can still give you a valuable head start.
